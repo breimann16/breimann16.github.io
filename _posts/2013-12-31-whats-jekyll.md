@@ -1,6 +1,7 @@
 ---
 layout: post
-title: First Post
+title: Meditation
+{{ site.time | date_to_string }}
 ---
 
-I have switched from wordpress to github pages using Jekyll in order to use this super simple and clean theme. 
+Meditation has a profound affect on well-being, it is not meditation that is the difficult part but rather the self discipline to perform the task. Meditation 
